@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "@buf/meshtastic_protobufs.bufbuild_es",
+  "version": "1.2.0-20230328173351-271d1533a896.1",
+  "description": "This package contains generated code for the protobuf module buf.build/meshtastic/protobufs:271d1533a896 when generated with the plugin buf.build/bufbuild/es:v1.2.0 revision:1",
+  "peerDependencies": {
+    "@bufbuild/protobuf": "^1.2.0"
+  }
+}
